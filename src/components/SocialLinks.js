@@ -17,7 +17,7 @@ const SocialLinks = () => {
           >
             <div className="w-10 h-10 sm:w-12 sm:h-12 bg-blue-600 rounded-full flex items-center justify-center hover:bg-blue-700 transition-colors duration-200 shadow-lg hover:shadow-xl">
               <img
-                src="/images/linkedin.svg"
+                src={process.env.PUBLIC_URL + "/images/linkedin.svg"}
                 alt="LinkedIn"
                 className="w-5 h-5 sm:w-6 sm:h-6 text-white"
               />
@@ -34,7 +34,7 @@ const SocialLinks = () => {
           >
             <div className="w-10 h-10 sm:w-12 sm:h-12 bg-gray-200 dark:bg-gray-700 rounded-full flex items-center justify-center hover:bg-gray-300 dark:hover:bg-gray-600 transition-colors duration-200 shadow-lg hover:shadow-xl">
               <img
-                src="/images/github.svg"
+                src={process.env.PUBLIC_URL + "/images/github.svg"}
                 alt="GitHub"
                 className="w-5 h-5 sm:w-6 sm:h-6 text-gray-800 dark:text-white"
               />
@@ -49,7 +49,7 @@ const SocialLinks = () => {
           >
             <div className="w-10 h-10 sm:w-12 sm:h-12 bg-red-600 rounded-full flex items-center justify-center hover:bg-red-700 transition-colors duration-200 shadow-lg hover:shadow-xl">
               <img
-                src="/images/email.svg"
+                src={process.env.PUBLIC_URL + "/images/email.svg"}
                 alt="Email"
                 className="w-5 h-5 sm:w-6 sm:h-6 text-white"
               />

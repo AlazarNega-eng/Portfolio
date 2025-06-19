@@ -16,7 +16,11 @@ const Projects = () => {
               className="bg-gray-100 dark:bg-gray-800/50 rounded-lg p-6 shadow-xl backdrop-blur-sm flex flex-col"
             >
               <img
-                src={project.image}
+                src={
+                  process.env.PUBLIC_URL +
+                  "/" +
+                  project.image.replace(/^\//, "")
+                }
                 alt={project.title}
                 className="rounded-lg mb-4 object-cover h-40 w-full"
               />

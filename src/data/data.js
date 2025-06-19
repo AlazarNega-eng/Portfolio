@@ -73,8 +73,16 @@ const personalData = {
       title: "AASTU Online University Registration System",
       description:
         "A comprehensive web application for managing university registration system",
-      techStack: ["PHP", "MySQL", "HTML", "CSS", "JavaScript", "RESTful APIs"],
-      image: "/images/Screenshot (39).png",
+      techStack: [
+        "React",
+        "PHP",
+        "MySQL",
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "RESTful APIs",
+      ],
+      image: "images/Screenshot (39).png",
       category: "Web Development",
       detailedDescription:
         "A comprehensive web application designed to streamline the university registration process. It allows students to register for courses, view grades, and manage their academic information. Administrators can manage course offerings, student enrollments, and generate reports. Features include user authentication, real-time data updates, and responsive design for mobile access.",
@@ -86,7 +94,7 @@ const personalData = {
       title: "Ethiopian Tourism Management System",
       description: "A web application for managing tourism management system",
       techStack: ["Java", "MySQL", "HTML", "CSS", "JavaScript", "Spring Boot"],
-      image: "/images/download.jpg",
+      image: "images/download.jpg",
       category: "Web Development",
       detailedDescription:
         "A platform aimed at promoting and managing tourism in Ethiopia. It provides information on tourist attractions, allows users to book tours and accommodations, and offers a forum for travelers to share their experiences. The system also includes an administrative backend for managing content and bookings. Features include payment integration, user reviews, and a comprehensive booking system.",
@@ -98,7 +106,7 @@ const personalData = {
       description:
         "A modern, responsive portfolio website built with React and Tailwind CSS",
       techStack: ["React", "TailwindCSS", "JavaScript", "CSS3", "HTML5"],
-      image: "/images/Screenshot (38).png",
+      image: "images/Screenshot (38).png",
       category: "Web Development",
       detailedDescription:
         "A modern, responsive portfolio website showcasing my skills and projects. Built with React for dynamic content management and Tailwind CSS for beautiful, responsive design. Features include dark mode toggle, smooth animations, and mobile-first design approach.",
