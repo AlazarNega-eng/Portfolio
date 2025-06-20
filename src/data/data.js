@@ -73,15 +73,7 @@ const personalData = {
       title: "AASTU Online University Registration System",
       description:
         "A comprehensive web application for managing university registration system",
-      techStack: [
-        "React",
-        "PHP",
-        "MySQL",
-        "HTML",
-        "CSS",
-        "JavaScript",
-        "RESTful APIs",
-      ],
+      techStack: ["PHP", "MySQL", "HTML", "CSS", "JavaScript", "RESTful APIs"],
       image: "images/Screenshot (39).png",
       category: "Web Development",
       detailedDescription:
@@ -93,7 +85,7 @@ const personalData = {
     {
       title: "Ethiopian Tourism Management System",
       description: "A web application for managing tourism management system",
-      techStack: ["Java", "MySQL", "HTML", "CSS", "JavaScript", "Spring Boot"],
+      techStack: ["Java", "MySQL", "HTML", "CSS", "JavaScript"],
       image: "images/download.jpg",
       category: "Web Development",
       detailedDescription:
@@ -105,7 +97,7 @@ const personalData = {
       title: "Personal Portfolio Website",
       description:
         "A modern, responsive portfolio website built with React and Tailwind CSS",
-      techStack: ["React", "TailwindCSS", "JavaScript", "CSS3", "HTML5"],
+      techStack: ["React", "TailwindCSS", "JavaScript"],
       image: "images/Screenshot (38).png",
       category: "Web Development",
       detailedDescription:
