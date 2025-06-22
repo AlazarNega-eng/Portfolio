@@ -2,7 +2,7 @@
 
 A modern, responsive personal portfolio website built with **React** and **Tailwind CSS**. Showcases projects, skills, education, and contact information.
 
-**Live Demo:** [View on GitHub Pages](https://AlazarNega-eng.github.io/Portfolio)
+**Live Demo:** [https://portfolio-alazarnega-eng.vercel.app/](https://portfolio-alazarnega-eng.vercel.app/)
 
 ## Features
 
@@ -30,15 +30,9 @@ A modern, responsive personal portfolio website built with **React** and **Tailw
 
 ## Deployment
 
-This project uses GitHub Actions for automatic deployment to GitHub Pages. The site is automatically built and deployed whenever code is pushed to the `main` branch.
+This project is deployed on [Vercel](https://vercel.com).
 
-### Setup Instructions:
-
-1. ✅ Repository already created on GitHub
-2. ✅ Code pushed to the repository
-3. Go to your repository Settings → Pages
-4. Set the source to "GitHub Actions"
-5. The site will be automatically deployed on the next push to main
+Vercel automatically deploys the site whenever new changes are pushed to the `main` branch.
 
 ---
 
