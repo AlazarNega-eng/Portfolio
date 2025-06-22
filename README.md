@@ -2,7 +2,7 @@
 
 A modern, responsive personal portfolio website built with **React** and **Tailwind CSS**. Showcases projects, skills, education, and contact information.
 
-**Live Demo:** [View on GitHub Pages](https://yourusername.github.io/your-repo-name)
+**Live Demo:** [View on GitHub Pages](https://AlazarNega-eng.github.io/Portfolio)
 
 ## Features
 
@@ -16,8 +16,8 @@ A modern, responsive personal portfolio website built with **React** and **Tailw
 
 1. Clone the repo:
    ```sh
-   git clone https://github.com/yourusername/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/AlazarNega-eng/Portfolio.git
+   cd Portfolio
    ```
 2. Install dependencies:
    ```sh
@@ -34,8 +34,8 @@ This project uses GitHub Actions for automatic deployment to GitHub Pages. The s
 
 ### Setup Instructions:
 
-1. Create a new repository on GitHub
-2. Push your code to the repository
+1. ✅ Repository already created on GitHub
+2. ✅ Code pushed to the repository
 3. Go to your repository Settings → Pages
 4. Set the source to "GitHub Actions"
 5. The site will be automatically deployed on the next push to main
